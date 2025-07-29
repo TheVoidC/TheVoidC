@@ -11,8 +11,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=sic+parvis+magna)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
+  
 
   </h3>
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
