@@ -11,8 +11,13 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-  
 
+
+
+
+
+  </h3>
+  </h3>
   </h3>
 
 ¡Hola! Soy un programador con más de 30 años de experiencia en el mundo de la informática y 20 años dedicado a la programación. Desde Santiago de Chile, he vivido la evolución de la tecnología en primera línea.
