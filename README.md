@@ -46,8 +46,7 @@ Siempre estoy abierto a compartir conocimientos y aprender cosas nuevas. Si busc
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
 </p>
 
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
