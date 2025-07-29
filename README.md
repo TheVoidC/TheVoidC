@@ -78,26 +78,9 @@ Siempre estoy abierto a compartir conocimientos y aprender. Si buscas a alguien 
 
 ---
 
-### 📈 Estadísticas de GitHub
 
-<p align="center">
-  <a href="https://github.com/TheVoidC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheVoidC&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoidC&layout=compact&theme=dark&langs_count=8"/>
-  </a>
-</p>
 
----
 
-### 🌟 Proyectos Destacados
-
-- [**Nombre del Proyecto 1**](link) - Breve descripción
-- [**Nombre del Proyecto 2**](link) - Breve descripción
-- [**Nombre del Proyecto 3**](link) - Breve descripción
-
----
-
-### 📫 Contacto
 
 <p align="center">
   <a href="mailto:tu@email.com">
