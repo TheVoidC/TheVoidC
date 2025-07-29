@@ -14,7 +14,6 @@
   
 
   </h3>
-  <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 ¡Hola! Soy un programador con más de 30 años de experiencia en el mundo de la informática y 20 años dedicado a la programación. Desde Santiago de Chile, he vivido la evolución de la tecnología en primera línea.
 
