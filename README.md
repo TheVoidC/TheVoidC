@@ -44,13 +44,10 @@ Siempre estoy abierto a compartir conocimientos y aprender. Si buscas a alguien 
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" title="C" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" title="C++" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" title="C#" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/59575502/127426152-a3fa615d-646a-41ad-b40d-668f7317b1d0.png" alt="go" title="Go" width="40" height="40">
+
   <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" title="Python" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" title="Java" width="40" height="40">
-  <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" title="R" width="40" height="40">
+
   
   <!-- Web -->
   <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" title="HTML5" width="40" height="40">
@@ -64,7 +61,7 @@ Siempre estoy abierto a compartir conocimientos y aprender. Si buscas a alguien 
   <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" title="MySQL" width="40" height="40">
   
   <!-- Móvil -->
-  <img src="https://user-images.githubusercontent.com/59575502/127427343-2fe8d36c-c633-4ed2-92a2-122f08d7328b.png" alt="kotlin" title="Kotlin" width="40" height="40">
+
   <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" title="Android" width="40" height="40">
   
   <!-- Herramientas -->
