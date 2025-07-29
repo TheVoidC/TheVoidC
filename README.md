@@ -111,6 +111,6 @@ Siempre estoy abierto a compartir conocimientos y aprender. Si buscas a alguien 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="footer" width="100%">
-</p>
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
